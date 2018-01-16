@@ -52,6 +52,6 @@ legend {
 }
 
 input {
-	padding:5px;
-	
+	padding:15px;
+	border-radius: 25px;
 }
