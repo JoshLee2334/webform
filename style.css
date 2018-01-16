@@ -53,6 +53,6 @@ legend {
 
 input {
 	padding:15px;
-	border-radius: 25px 25px 25px 25px;
-	border: solid 1px grey;
+	border-radius: 25px;
+	border: solid 1px #666666;
 }
